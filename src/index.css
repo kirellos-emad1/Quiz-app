@@ -5,9 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  box-sizing: border-box;
+  background-color: #F5F7FB;
+  background-image: url(./images/blob\ 5.png), url(./images/blob\ 5\ \(1\).png);
+  background-position: left bottom, right top;
+  background-repeat: no-repeat, no-repeat;
 }
